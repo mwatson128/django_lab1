@@ -25,7 +25,7 @@ SECRET_KEY = 'jc#-lz=a4lwe+!px@+gg-q76j6z62u9d)p^%=2q38mp#bsyij#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127...', '192.168.1.']
+ALLOWED_HOSTS = []
 
 
 # Application definition
