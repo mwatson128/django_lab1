@@ -1,0 +1,8 @@
+to start virtual environment:
+    ->  source venv/bin/activate
+
+to run server:
+    ->  python3 manage.py runserver
+
+
+
